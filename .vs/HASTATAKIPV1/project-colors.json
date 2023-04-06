@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69c1cc18-96e4-4980-91d4-ba51069d415e": {
+      "ProjectGuid": "69c1cc18-96e4-4980-91d4-ba51069d415e",
+      "DisplayName": "HASTATAKIPV1",
+      "ColorIndex": 0
+    },
+    "09ea597e-308c-464d-b8d6-176ab33deda4": {
+      "ProjectGuid": "09ea597e-308c-464d-b8d6-176ab33deda4",
+      "DisplayName": "EntityLayer",
+      "ColorIndex": 1
+    },
+    "0729d6c4-dd17-4075-b049-807b6574dcaf": {
+      "ProjectGuid": "0729d6c4-dd17-4075-b049-807b6574dcaf",
+      "DisplayName": "DAL",
+      "ColorIndex": 2
+    },
+    "5805ecd1-36fd-44bb-9db1-a284efd1146e": {
+      "ProjectGuid": "5805ecd1-36fd-44bb-9db1-a284efd1146e",
+      "DisplayName": "Logic",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

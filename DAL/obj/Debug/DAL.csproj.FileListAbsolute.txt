@@ -1,0 +1,9 @@
+C:\Users\erdog\source\repos\HASTATAKIPV1\DAL\bin\Debug\DAL.dll
+C:\Users\erdog\source\repos\HASTATAKIPV1\DAL\bin\Debug\DAL.pdb
+C:\Users\erdog\source\repos\HASTATAKIPV1\DAL\bin\Debug\EntityLayer.dll
+C:\Users\erdog\source\repos\HASTATAKIPV1\DAL\bin\Debug\EntityLayer.pdb
+C:\Users\erdog\source\repos\HASTATAKIPV1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\erdog\source\repos\HASTATAKIPV1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\erdog\source\repos\HASTATAKIPV1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\erdog\source\repos\HASTATAKIPV1\DAL\obj\Debug\DAL.dll
+C:\Users\erdog\source\repos\HASTATAKIPV1\DAL\obj\Debug\DAL.pdb

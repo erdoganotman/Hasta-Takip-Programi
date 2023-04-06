@@ -1,0 +1,11 @@
+C:\Users\erdog\source\repos\HASTATAKIPV1\Logic\bin\Debug\Logic.dll
+C:\Users\erdog\source\repos\HASTATAKIPV1\Logic\bin\Debug\Logic.pdb
+C:\Users\erdog\source\repos\HASTATAKIPV1\Logic\bin\Debug\DAL.dll
+C:\Users\erdog\source\repos\HASTATAKIPV1\Logic\bin\Debug\EntityLayer.dll
+C:\Users\erdog\source\repos\HASTATAKIPV1\Logic\bin\Debug\DAL.pdb
+C:\Users\erdog\source\repos\HASTATAKIPV1\Logic\bin\Debug\EntityLayer.pdb
+C:\Users\erdog\source\repos\HASTATAKIPV1\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\erdog\source\repos\HASTATAKIPV1\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\erdog\source\repos\HASTATAKIPV1\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\erdog\source\repos\HASTATAKIPV1\Logic\obj\Debug\Logic.dll
+C:\Users\erdog\source\repos\HASTATAKIPV1\Logic\obj\Debug\Logic.pdb
